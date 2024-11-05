@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/RealisticCars_HD/Samples/Meta XR Interaction SDK/66.0.0/Example
+      Scenes/HandGrabExamples.unity
+    guid: 39ae0e546b9edc0408d3b11c6a7c2814
+  - enabled: 0
+    path: Assets/RealisticCars_HD/Samples/Meta XR Interaction SDK/66.0.0/Tools/HandGrabPoseTool.unity
+    guid: 8d12702353d5fd74ba260506070081fd
+  - enabled: 0
+    path: Assets/Scenes/TestCar.unity
+    guid: 58ae6d45a0b109e4b84fdf8452d1955b
+  - enabled: 0
+    path: Assets/RealisticCars_HD/Samples/Meta XR Interaction SDK/66.0.0/Example
+      Scenes/LocomotionExamples.unity
+    guid: d37ed7e92220d1045a36bc73c7c4cf16
+  - enabled: 0
+    path: Assets/NewAssets/Scenes/Scene-Demo VR 4.unity
+    guid: 5c36a4a421e0bde4987dd660bb8f2e61
+  - enabled: 0
+    path: Assets/Fantastic City Generator/Scenes/Scene-Demo VR 1.unity
+    guid: 42519d7ce6fb7394e9e5f7a4be2497fa
+  - enabled: 1
+    path: Assets/Fantastic City Generator/Scenes/Scene-Demo VR 2.unity
+    guid: 46c3212eb333fb64ea393b79960397c5
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: e7ad32cc4b213184485a30dff155673b, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: e38b10864f95ebd4590638693054a1d2, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 8a8082baa5c46eb4fa0bbca90c2e2f9e, type: 2}
