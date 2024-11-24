@@ -1,0 +1,13 @@
+[Libraries]
+[Libraries]
+Library/
+Temp/
+Obj/
+*.csproj
+*.sln
+*.user
+*.unitypackage
+
+# Build output
+Build/
+Builds/
